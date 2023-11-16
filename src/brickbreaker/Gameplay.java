@@ -19,7 +19,7 @@ public class Gameplay extends JPanel implements KeyListener, ActionListener {
     private int playerX = 310; //starting position of the slider
     private int ballposX = 120; //starting pos of ball
     private int ballposY = 350; //starting pos of ball
-    private int ballXdir = -1; //ball x direction
+    private int ballXdir = -2; //ball x direction
     private int ballYdir = -2; //ball y direction
     private MapGenerator map;
 
