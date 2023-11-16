@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/brickbreakerGame.iml" filepath="$PROJECT_DIR$/brickbreakerGame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/brickbreaker.iml" filepath="$PROJECT_DIR$/brickbreaker.iml" />
     </modules>
   </component>
 </project>
